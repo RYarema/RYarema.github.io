@@ -1,0 +1,31 @@
+[
+  {
+    "id": "1",  
+    "nombre": "Empresa 1",
+    "direccion": "Calle 123, Ciudad",
+    "horario_atencion": "9:00 AM - 5:00 PM",
+    "imagen": "Imagenes/que_asado.jpg"
+  },
+  {
+    "id": "2",  
+    "nombre": "Empresa 2",
+    "direccion": "Avenida XYZ, Ciudad",
+    "horario_atencion": "8:30 AM - 6:00 PM", 
+    "imagen":"Imagenes/carnicerias-herrero-carniceria-en-fuenlabrada.jpg"
+  },
+  {
+    "id": "3",  
+    "nombre": "Empresa 3",
+    "direccion": "Plaza Principal, Ciudad",
+    "horario_atencion": "10:00 AM - 4:30 PM",
+    "imagen": "Imagenes/que_asado.jpg"
+  },
+  {
+    "id": "4",  
+    "nombre": "Empresa 4",
+    "direccion": "Plaza Principal, Ciudadddddddd",
+    "horario_atencion": "10:00 AM - 4:30 PM",
+    "imagen":"Imagenes/carnicerias-herrero-carniceria-en-fuenlabrada.jpg"
+  }
+  
+]
